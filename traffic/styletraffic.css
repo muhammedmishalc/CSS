@@ -1,0 +1,39 @@
+.main{
+    border: 6px solid white;
+    width: 500px;
+    height: 500px;
+    left: 500px;
+    position: relative;
+    
+}
+.red{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    left: 200px;
+    top: 100px;
+    position: absolute;
+      
+}
+.purple{
+    background-color: purple;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    left: 200px;
+    top: 300px;
+    position: absolute;
+    
+    
+}
+.yellow{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    left: 200px;
+    top: 200px;
+    position: absolute;
+   
+}

@@ -1,0 +1,96 @@
+.container{
+    
+    height: 500px;
+    width: 500px;
+    border: 3px dotted;
+    border-color: brown;
+    /* margin: 4px; */
+    margin-left: 100px;
+}
+
+#img1{
+
+    height: 300px;
+    width: 300px;
+}
+#img2{
+
+    height: 220px;
+    width: 100px;
+    
+
+}
+.inner{
+    height: 260px;
+    width: 150px;
+    border: 2px solid greenyellow;
+    margin-left: 304px;
+    margin-top: -269px;
+    
+}
+
+.container1{
+
+    height: 500px;
+    width: 500px;
+    border: 3px dotted;
+    border-color: brown;
+    margin-left: 620px;
+    margin-top: -504px;
+    /* background-color: aquamarine; */
+    background: linear-gradient(to bottom,yellow 0%,greenyellow 20%);
+
+}
+
+.box{
+
+    
+background-image: url("https://www.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg" );
+background-repeat: no-repeat;
+}
+
+
+
+.outer{
+    height: 700px;
+    width: 600px;
+    background-color: blue;
+    position: relative;
+
+
+}
+.inner1{
+    height:300px ;
+    width: 400px;
+    background-color: brown;
+    position: absolute;
+    left: 100px;
+
+}
+.inner2{
+    height: 300px;
+    width: 400px;
+    background-color: azure;
+    position: absolute;
+    left: 100px;
+    top: 350px;
+
+}
+.box1{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(21, 93, 93);
+
+}
+.box2{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(55, 19, 100);
+
+}
+.box3{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(181, 137, 23);
+
+}
